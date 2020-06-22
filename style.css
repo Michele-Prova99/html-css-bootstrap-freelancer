@@ -1,0 +1,73 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* header-top */
+
+.header-top{
+  background-color: #2c3e50;
+}
+
+.header-top .row{
+  height: 100px;
+}
+
+/* header */
+
+.header{
+  background-color: #1abc9c;
+}
+
+.header .row{
+  height: 700px;
+}
+
+/* PORTFOLIO */
+
+.PORTFOLIO{
+  background-color: #ffffff;
+}
+
+ .PORTFOLIO .row{
+   height: 800px;
+ }
+
+/* ABOUT */
+
+.ABOUT{
+  background-color: #1abc9c;
+}
+
+.ABOUT .row{
+  height: 600px;
+}
+
+/* CONTACTME */
+
+.CONTACTME{
+  background-color: #ffffff;
+}
+
+.CONTACTME .row{
+  height: 900px;
+}
+
+/* footer-top */
+
+.footer-top{
+  background-color: #2c3e50;
+}
+
+.footer-top .row{
+  height: 300px;
+}
+
+/* footer */
+
+.footer{
+  background-color: #1a252f;
+}
+
+.footer .row{
+  height: 70px;
+}
